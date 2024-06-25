@@ -1,0 +1,2 @@
+pip install google-generativeai==0.7.0
+pip install google-api-core==2.11.0
