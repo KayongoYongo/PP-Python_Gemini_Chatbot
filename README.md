@@ -3,7 +3,7 @@ A python and a google Gemini chatbot.
 
 # Getting started
 1. Install the google geneative ai library using this command:
-`pip install -r requirements.txt`
+`pip install -U google-generativeai`
 
 2. Create a file called `.env`.
 
